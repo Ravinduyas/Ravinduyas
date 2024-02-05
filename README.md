@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IJSE as a Student <br>👯 I’m looking to collaborate on...<br>🤝 I’m looking for help with...<br>🌱 I’m currently learning Java / HTML,CSS,JS<br>💬 Ask me about...<br>⚡ Fun fact <br><br>"Ctrl + S may save your code, but committing to excellence Ctrl + Shift + C creates a masterpiece. 🚀 #CodingInStyle"
+🔭 I’m currently studying on IJSE as a Student <br>👯 I’m looking to collaborate on...<br>🤝 I’m looking for help with...<br>🌱 I’m currently learning Java / HTML,CSS,JS<br>💬 Ask me about...<br>⚡ Fun fact <br><br>"Ctrl + S may save your code, but committing to excellence Ctrl + Shift + C creates a masterpiece. 🚀 #CodingInStyle"
 
 
 ## 🌐 Socials:
